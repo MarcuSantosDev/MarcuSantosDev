@@ -1,7 +1,5 @@
 ## Olá! Eu sou o MarcusSantosDev 👋
 
-
-
 - 🔭 Busco trabalhar na área de back-end
 - 🌱 Estou estudando Python
 - 📚 Atualmente estou no 4° Período de ADS 
@@ -13,6 +11,8 @@
   <a href="https://www.instagram.com/marcus.vieirarr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
 ### 🤖 Linguagens e Tecnologias Mais Utilizadas
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-<br>
+
 
 ### 📊 Estatísticas
 <p>
