@@ -1,8 +1,9 @@
 ## Olá! Eu sou o MarcusSantosDev 👋
 **`Desenvolvedor Backend`**
 
-- 🌱 Estudando Python/Django
-- 📚 Atualmente estou no 4° Período de ADS 
+Sou desenvolvedor Backend iniciante no desenvolvimento de softwares. Atualmente estou no 4° período do curso Análise e Desenvolvimento de Sistemas pela Unipê e já possuo experiências sólidas na programação pela Fábrica de Softwares.
+
+Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais familiaridade com Python, Mysql e frameworks como o Django. Tenho um forte compromisso com o trabalho em equipe, a colaboração entre áreas e a entrega de soluções que atendem às necessidades dos clientes de maneira eficiente e sempre estou buscando melhorar como proficional.
 
  ### 📱 Redes Sociais:
 <div> 
