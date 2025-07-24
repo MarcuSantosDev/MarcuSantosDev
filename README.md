@@ -1,6 +1,6 @@
 ## Olá! Eu sou o MarcusSantosDev 👋
+**`Desenvolvedor Backend`**
 
-- 🔭 Busco trabalhar na área de back-end
 - 🌱 Estudando Python/Django
 - 📚 Atualmente estou no 4° Período de ADS 
 
