@@ -7,15 +7,21 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
 
 ---
 
-### 📱 Redes Sociais  
-<div> 
+### 📱 Redes Sociais
+
+<p align="left">
   <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://gitlab.com/MarcuSantosDev" target="_blank">
+    <img src="https://img.shields.io/badge/-GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
   <a href="https://discord.com/users/eunokogama" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-</div>
+</p>
+
+
 
 ---
 
