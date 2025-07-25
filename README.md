@@ -1,48 +1,28 @@
-## Olá! Eu sou o MarcusSantosDev 👋
+## Olá! Eu sou o MarcusSantosDev 👋  
 **`Desenvolvedor Backend`**
 
 Sou desenvolvedor Backend iniciante no desenvolvimento de softwares. Atualmente estou no 4° período do curso Análise e Desenvolvimento de Sistemas pela Unipê e já possuo experiências sólidas na programação pela Fábrica de Softwares.
 
-Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais familiaridade com Python, Mysql e frameworks como o Django. Tenho um forte compromisso com o trabalho em equipe, a colaboração entre áreas e a entrega de soluções que atendem às necessidades dos clientes de maneira eficiente e sempre estou buscando melhorar como proficional.
+Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais familiaridade com Python, MySQL e frameworks como o Django. Tenho um forte compromisso com o trabalho em equipe, a colaboração entre áreas e a entrega de soluções que atendem às necessidades dos clientes de maneira eficiente, e sempre estou buscando melhorar como profissional.
 
- ###  📱 Redes Sociais  
+---
+
+### 📱 Redes Sociais  
 <div> 
-  <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <a href="mailto:marcus.xtreme03@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/marcus.vieirarr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/marcus.vieirarr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
 
-#### 🧠 Linguagens
-<div style="display: inline_block"> 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-#### ⚙️ Frameworks
-<div style="display: inline_block"> 
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
-
-#### 🗄️ Bancos de Dados
-<div style="display: inline_block"> 
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
-#### 🛠️ Ferramentas
-<div style="display: inline_block"> 
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-
- 
-###  <br>  📊 Estatísticas  
+### 📊 Estatísticas  
 <p>
   <img 
     align="left" 
@@ -51,15 +31,41 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcuSantosDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
- 
+<br clear="both"/>
 
+---
+
+### 🧠 Linguagens
+<div style="display: inline_block"> 
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+### ⚙️ Frameworks
+<div style="display: inline_block"> 
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</div>
+
+### 🗄️ Bancos de Dados
+<div style="display: inline_block"> 
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+### 🛠️ Ferramentas
+<div style="display: inline_block"> 
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
