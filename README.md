@@ -5,7 +5,7 @@ Sou desenvolvedor Backend iniciante no desenvolvimento de softwares. Atualmente 
 
 Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais familiaridade com Python, Mysql e frameworks como o Django. Tenho um forte compromisso com o trabalho em equipe, a colaboração entre áreas e a entrega de soluções que atendem às necessidades dos clientes de maneira eficiente e sempre estou buscando melhorar como proficional.
 
- ### 「 📱 Redes Sociais  」
+ ###  📱 Redes Sociais  
 <div> 
   <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:marcus.xtreme03@gmail.com">
@@ -25,7 +25,7 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
 </div>
 
  
-###  「 📊 Estatísticas  」
+###  <br>  📊 Estatísticas  
 <p>
   <img 
     align="left" 
