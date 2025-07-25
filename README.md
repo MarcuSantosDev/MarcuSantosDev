@@ -53,7 +53,6 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
 ### ⚙️ Frameworks
 <div style="display: inline_block"> 
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
 
 ### 🗄️ Bancos de Dados
