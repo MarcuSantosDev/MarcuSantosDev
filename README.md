@@ -1,7 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2f855a&height=120&section=header"/>
 
-## Olá! Eu sou o MarcusSantosDev 👋  
-**`Desenvolvedor Backend`**
+<h2 align="center">&lt;Olá, eu sou o MarcusDev/&gt;</h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2f855a&center=true&vCenter=true&width=500&lines=Back-End+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+**`sobre mim`**
 
 Sou desenvolvedor Backend iniciante no desenvolvimento de softwares. Atualmente estou no 4° período do curso Análise e Desenvolvimento de Sistemas pela Unipê e já possuo experiências sólidas na programação pela Fábrica de Softwares.
 
@@ -11,8 +18,12 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
 
 ### 📱 Redes Sociais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-santos-403b362b6/)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MarcuSantosDev)
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2f855a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-santos-403b362b6/)
+[![GitLab](https://img.shields.io/badge/GitLab-2f855a?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MarcuSantosDev)
+
+</div>
 
 
 
