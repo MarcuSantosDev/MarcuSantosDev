@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2f855a&height=120&section=header"/>
+
+
 ## Olá! Eu sou o MarcusSantosDev 👋  
 **`Desenvolvedor Backend`**
 
@@ -63,3 +66,5 @@ Minha experiência inclui trabalhar com diversas tecnologias, porém tenho mais 
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2f855a&height=120&section=footer"/>
