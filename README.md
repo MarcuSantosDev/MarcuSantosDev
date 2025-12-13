@@ -22,15 +22,18 @@ Valorizo **trabalho em equipe**, **código limpo** e **entregas eficientes**, bu
 
 ---
 
-## 🌐 Redes sociais
+## 🌐 Fale comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2f855a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-santos-403b362b6/)
-[![GitLab](https://img.shields.io/badge/GitLab-2f855a?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MarcuSantosDev)
-[![Email](https://img.shields.io/badge/Email-2f855a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.santos.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-santos-403b362b6/)
+[![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/MarcuSantosDev)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcus.xtreme03@gmail.com)
 
 </div>
+
+
+
 
 
 ---
