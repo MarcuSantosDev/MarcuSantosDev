@@ -9,8 +9,7 @@
 </div>
 
 ## 🌱 Sobre mim
-Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.  
-Atuo principalmente com Python, Django e bancos de dados relacionais como MySQL e PostgreSQL.
+Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares. Atuo principalmente com Python, Django e bancos de dados relacionais como MySQL e PostgreSQL.
 
 ## Perfis profissionais
 <div align="left">
