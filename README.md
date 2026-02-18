@@ -35,10 +35,4 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
   <img src="https://skillicons.dev/icons?i=docker,git,gitlab,postman,vscode&theme=dark&color=2f855a" />
 </div>
 
-## Estatísticas
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&layout=compact&bg_color=2f855a&title_color=ffffff&text_color=ffffff&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcuSantosDev&show_icons=true&bg_color=2f855a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2f855a&height=120&section=footer"/>
