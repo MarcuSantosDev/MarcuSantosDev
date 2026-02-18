@@ -9,7 +9,7 @@
 </div>
 
 ## 🌱 Sobre mim
-Sou desenvolvedor Backend, atualmente no 4º período de Análise e Desenvolvimento de Sistemas (UNIPÊ), com experiência prática adquirida na Fábrica de Softwares.  
+Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.  
 Atuo principalmente com Python, Django e bancos de dados relacionais como MySQL e PostgreSQL.
 
 ## Perfis profissionais
