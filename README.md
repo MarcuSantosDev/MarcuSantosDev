@@ -32,7 +32,7 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
 
 ## Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,postman,vscode&theme=dark&color=2f855a" />
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,postman,vscode,intellijidea&theme=dark&color=2f855a" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2f855a&height=120&section=footer"/>
