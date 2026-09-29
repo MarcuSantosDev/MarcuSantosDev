@@ -25,6 +25,10 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
   <img src="https://skillicons.dev/icons?i=python,django,java,spring,html,css,js&theme=dark&color=2f855a" />
 </div>
 
+## Linguagens mais utilizadas
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&layout=compact&theme=dark&hide_border=true" /> </div>
+
 ## Banco de dados
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&color=2f855a" />
