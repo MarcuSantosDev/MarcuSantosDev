@@ -25,12 +25,6 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
   <img src="https://skillicons.dev/icons?i=python,django,java,spring,html,css,js&theme=dark&color=2f855a" />
 </div>
 
-## Linguagens mais utilizadas
-
-<div align="center">
-    <img src="./assets/languages.svg" width="500"/>
-</div>
-
 ## Banco de dados
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&color=2f855a" />
