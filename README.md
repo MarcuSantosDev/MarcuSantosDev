@@ -27,7 +27,12 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
 
 ## Linguagens mais utilizadas
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&layout=compact&theme=dark&hide_border=true" /> </div>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&layout=donut&theme=dark&hide_border=true&langs_count=6"
+    height="180"
+  />
+</div>
 
 ## Banco de dados
 <div align="left">
