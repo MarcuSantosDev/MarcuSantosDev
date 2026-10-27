@@ -28,6 +28,9 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
 ## Banco de dados
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&color=2f855a" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20EE-5382A1?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" 
 </div>
 
 ## Ferramentas
