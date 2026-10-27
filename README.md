@@ -28,9 +28,6 @@ Sou desenvolvedor Backend, Graduado em Análise e Desenvolvimento de Sistemas pe
 ## Banco de dados
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&color=2f855a" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jakarta/jakarta-original.svg" height="50" alt="Jakarta EE" />
 </div>
 
 ## Ferramentas
