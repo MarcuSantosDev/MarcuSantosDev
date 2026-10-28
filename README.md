@@ -20,17 +20,40 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 
 ## 💻 Tecnologias
 
-**Back-End**
+### ⚙️ Back-End
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django&perline=4" height="36" />
+<div>
+  <img height="32" src="https://skillicons.dev/icons?i=java" />
+  <img height="32" src="https://skillicons.dev/icons?i=spring" />
+  <img height="32" src="https://skillicons.dev/icons?i=python" />
+  <img height="32" src="https://skillicons.dev/icons?i=django" />
+</div>
 
-**Bancos de dados**
+### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=4" height="36" />
+<div>
+  <img height="32" src="https://skillicons.dev/icons?i=postgres" />
+  <img height="32" src="https://skillicons.dev/icons?i=mysql" />
+</div>
 
-**Persistência e build**
+### 🧩 Persistência e Build
 
-<img src="https://skillicons.dev/icons?i=hibernate,maven&perline=4" height="36" />
+<div>
+  <img height="32" src="https://skillicons.dev/icons?i=hibernate" />
+  <img height="32" src="https://skillicons.dev/icons?i=maven" />
+</div>
+
+### 🛠️ Ferramentas
+
+<div>
+  <img height="32" src="https://skillicons.dev/icons?i=git" />
+  <img height="32" src="https://skillicons.dev/icons?i=github" />
+  <img height="32" src="https://skillicons.dev/icons?i=gitlab" />
+  <img height="32" src="https://skillicons.dev/icons?i=docker" />
+  <img height="32" src="https://skillicons.dev/icons?i=postman" />
+  <img height="32" src="https://skillicons.dev/icons?i=idea" />
+  <img height="32" src="https://skillicons.dev/icons?i=vscode" />
+</div>
 
 **Ferramentas**
 
