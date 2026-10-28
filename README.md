@@ -76,12 +76,6 @@
 
 <br />
 
-### 🐍 Minhas contribuições
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MarcuSantosDev/MarcuSantosDev/output/snake.svg" alt="Animação das contribuições do GitHub" />
-</div>
-
 <br />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=80&section=footer" />
