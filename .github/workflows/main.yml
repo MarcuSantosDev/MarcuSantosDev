@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -24,6 +25,24 @@ jobs:
           outputs: |
             dist/snake.svg?color_snake=%2300D9FF&color_dots=%230D1117,%23003B5C,%23005F8F,%23008FCB,%2300D9FF
             dist/snake-dark.svg?palette=github-dark&color_snake=%2300D9FF&color_dots=%230D1117,%23003B5C,%23005F8F,%23008FCB,%2300D9FF
+
+      - name: Add dark background to SVG files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          for name in ["snake.svg", "snake-dark.svg"]:
+              path = Path("dist") / name
+              svg = path.read_text(encoding="utf-8")
+
+              svg = svg.replace(
+                  "<svg ",
+                  '<svg style="background-color:#0D1117" ',
+                  1
+              )
+
+              path.write_text(svg, encoding="utf-8")
+          PY
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
