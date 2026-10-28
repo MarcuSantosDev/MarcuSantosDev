@@ -19,6 +19,8 @@
 
 <br />
 
+<hr />
+
 ### 🌱 Sobre mim
 
 <p align="justify">
@@ -28,6 +30,8 @@
 </p>
 
 <br />
+
+<hr />
 
 ### 💻 Tecnologias
 
@@ -50,6 +54,8 @@
 
 <br />
 
+<hr />
+
 ### 🛠️ Ferramentas
 
 <div align="left">
@@ -57,6 +63,8 @@
 </div>
 
 <br />
+
+<hr />
 
 ### 🔗 Perfis profissionais
 
@@ -70,12 +78,12 @@
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marcus.xtreme03@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
   </a>
 </div>
 
 <br />
 
-<br />
+<hr />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=80&section=footer" />
