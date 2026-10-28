@@ -19,7 +19,7 @@
 
 <br />
 
-## <img src="https://img.shields.io/badge/SOBRE%20MIM-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" />
+## 👤 Sobre mim
 
 <p align="justify">
   <font size="4">
