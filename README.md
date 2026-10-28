@@ -32,7 +32,7 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 
 ### 🧩 Outras tecnologias
 
-<img src="https://skillicons.dev/icons?i=hibernate,maven,jdbc,html,css" />
+<img src="https://skillicons.dev/icons?i=hibernate,maven,html,css" />
 
 <br />
 
