@@ -19,32 +19,30 @@
 
 <br />
 
-## 👤 Sobre mim
+### 👤 Sobre mim
 
 <p align="justify">
-  <font size="4">
-    Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
-    <br /><br />
-    Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos com Python e Django.
-  </font>
+  Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
+  <br /><br />
+  Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos com Python e Django.
 </p>
 
 <br />
 
-## 💻 Tecnologias
+### 💻 Tecnologias
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h3>⚙️ Back-End</h3>
+      <h4>⚙️ Back-End</h4>
       <img height="38" src="https://skillicons.dev/icons?i=java,spring,python,django" alt="Java, Spring, Python e Django" />
     </td>
     <td align="center" width="33%">
-      <h3>🗄️ Banco de Dados</h3>
+      <h4>🗄️ Banco de Dados</h4>
       <img height="38" src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL e MySQL" />
     </td>
     <td align="center" width="34%">
-      <h3>🧩 Persistência e Build</h3>
+      <h4>🧩 Persistência e Build</h4>
       <img height="38" src="https://skillicons.dev/icons?i=hibernate,maven" alt="Hibernate e Maven" />
     </td>
   </tr>
@@ -52,7 +50,7 @@
 
 <br />
 
-## 🛠️ Ferramentas
+### 🛠️ Ferramentas
 
 <div align="left">
   <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
@@ -60,7 +58,7 @@
 
 <br />
 
-## 🔗 Perfis profissionais
+### 🔗 Perfis profissionais
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/">
@@ -78,9 +76,7 @@
 
 <br />
 
-<br />
-<br />
- 
+### 🐍 Minhas contribuições
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/MarcuSantosDev/MarcuSantosDev/output/snake.svg" alt="Animação das contribuições do GitHub" />
