@@ -26,7 +26,7 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 
 ### 🗄️ Bancos de Dados
-<img src="https://skillicons.dev/icons?i=java,hibernate,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 ### 🐍 Outras tecnologias
 <img src="https://skillicons.dev/icons?i=python,django,html,css" />
