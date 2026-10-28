@@ -16,9 +16,9 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 
 <br />
 
-## 🛠️ Tecnologias
+## 💻 Tecnologias
 
-### ☕ Back-End
+### ⚙️ Back-End
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,django" />
 
@@ -30,13 +30,13 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 
 <br />
 
-### 🔧 Outras tecnologias
+### 🧩 Outras tecnologias
 
 <img src="https://skillicons.dev/icons?i=hibernate,maven" />
 
 <br />
 
-### ⚙️ Ferramentas
+### 🛠️ Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" />
 
