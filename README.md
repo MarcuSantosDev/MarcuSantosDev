@@ -19,7 +19,7 @@
 
 <br />
 
-## <img src="https://img.shields.io/badge/-%20Sobre%20mim-0D1117?style=flat&logo=github&logoColor=00D9FF" />
+## <img src="https://img.shields.io/badge/SOBRE%20MIM-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" />
 
 <p align="justify">
   <font size="4">
