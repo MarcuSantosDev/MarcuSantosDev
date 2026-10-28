@@ -41,12 +41,10 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 
 <br />
 
+## <div align="center">🛠️ Ferramentas</div>
+
 <div align="center">
-
-### 🛠️ Ferramentas
-
-<img height="36" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
-
+  <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
 </div>
 
 <br />
