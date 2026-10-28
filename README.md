@@ -17,6 +17,7 @@
   />
 </div>
 
+<br />
 
 ## <img src="https://img.shields.io/badge/-%20Sobre%20mim-0D1117?style=flat&logo=github&logoColor=00D9FF" />
 
@@ -30,7 +31,7 @@
 
 <br />
 
-## <div align="center">💻 Tecnologias</div>
+## 💻 Tecnologias
 
 <table align="center" width="100%">
   <tr>
@@ -51,7 +52,7 @@
 
 <br />
 
-## <div align="center">🛠️ Ferramentas</div>
+## 🛠️ Ferramentas
 
 <div align="center">
   <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
@@ -59,7 +60,7 @@
 
 <br />
 
-## <div align="center">🔗 Perfis profissionais</div>
+## 🔗 Perfis profissionais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/">
@@ -75,7 +76,7 @@
 
 <br />
 
-## <div align="center">🐍 Minhas contribuições</div>
+## 🐍 Minhas contribuições
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/MarcuSantosDev/MarcuSantosDev/output/snake.svg" alt="Animação das contribuições do GitHub" />
