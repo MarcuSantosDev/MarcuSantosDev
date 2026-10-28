@@ -8,7 +8,7 @@
 
 <br />
 
-## ☕ Sobre mim
+## 🌱 Sobre mim
 
 Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
 
