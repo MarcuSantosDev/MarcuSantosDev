@@ -17,11 +17,16 @@
   />
 </div>
 
+
 ## <img src="https://img.shields.io/badge/-%20Sobre%20mim-0D1117?style=flat&logo=github&logoColor=00D9FF" />
 
-Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
-
-Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos com Python e Django.
+<p align="justify">
+  <font size="4">
+    Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
+    <br /><br />
+    Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos com Python e Django.
+  </font>
+</p>
 
 <br />
 
