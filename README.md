@@ -78,7 +78,9 @@
 
 <br />
 
-## 🐍 Minhas contribuições
+<br />
+<br />
+ 
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/MarcuSantosDev/MarcuSantosDev/output/snake.svg" alt="Animação das contribuições do GitHub" />
