@@ -3,11 +3,7 @@
 <h2 align="center">&lt;Olá, eu sou o MarcusDev /&gt;</h2>
 
 <div align="center">
-  <img
-    width="100%"
-    src="./assets/marcusdev-background.png"
-    alt="MarcusDev — Java Back-End Developer"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+Back-End+Developer;Spring+Boot+%7C+JPA+%7C+Hibernate;JDBC+%7C+SQL+%7C+REST+APIs" alt="Animação de apresentação" />
 </div>
 
 <br />
