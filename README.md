@@ -51,3 +51,13 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 <br />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=120&section=footer" />
+
+<br />
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarcuSantosDev/MarcuSantosDev/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br />
