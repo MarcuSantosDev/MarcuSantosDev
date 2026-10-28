@@ -16,7 +16,7 @@
 
 Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
 
-Tenho foco no desenvolvimento Back-End com **Java e Spring**, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais. Também possuo experiência com Python e Django.
+Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos reais com Python e Django.
 
 ## 🛠️ Tecnologias
 
@@ -37,13 +37,6 @@ Tenho foco no desenvolvimento Back-End com **Java e Spring**, trabalhando com AP
 ### ⚙️ Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" />
 
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcuSantosDev&show_icons=true&theme=github_dark&hide_border=true&title_color=007396&icon_color=007396" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcuSantosDev&layout=compact&theme=github_dark&hide_border=true&title_color=007396" />
 </div>
 
 ## 🔗 Perfis profissionais
