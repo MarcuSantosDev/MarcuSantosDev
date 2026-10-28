@@ -54,7 +54,7 @@
 
 ## 🛠️ Ferramentas
 
-<div align="center">
+<div align="left">
   <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
 </div>
 
@@ -75,8 +75,6 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </div>
-
-
 
 <br />
 
