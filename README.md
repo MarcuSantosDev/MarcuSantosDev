@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=007396&center=true&vCenter=true&width=550&lines=Java+Back-End+Developer;Spring+Boot+%7C+JPA+%7C+Hibernate;JDBC+%7C+SQL+%7C+REST+APIs" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</div>
-
 ## ☕ Sobre mim
 
 Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
