@@ -62,17 +62,20 @@
 
 ## 🔗 Perfis profissionais
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/marcus-santos-403b362b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://gitlab.com/MarcuSantosDev">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="38" alt="GitLab" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:marcus.xtreme03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="E-mail" />
   </a>
 </div>
+
 
 <br />
 
