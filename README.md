@@ -19,7 +19,7 @@
 
 <br />
 
-### 👤 Sobre mim
+### 🌱 Sobre mim
 
 <p align="justify">
   Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
@@ -69,8 +69,8 @@
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   &nbsp;
-  <a href="mailto:marcus.xtreme03@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marcus.xtreme03@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
   </a>
 </div>
 
