@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=100&section=header" />
 
 <h2 align="center">&lt;Olá, eu sou o MarcusDev /&gt;</h2>
@@ -9,7 +10,11 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ABOUT%20ME%20%7C%20JAVA%20BACK-END%20DEVELOPER&fontSize=23&fontColor=00D9FF&animation=fadeIn" alt="Banner Sobre mim" />
+  <img
+    width="100%"
+    src="./assets/marcusdev-background.png"
+    alt="MarcusDev — Java Back-End Developer"
+  />
 </div>
 
 ## <img src="https://img.shields.io/badge/-%20Sobre%20mim-0D1117?style=flat&logo=github&logoColor=00D9FF" />
