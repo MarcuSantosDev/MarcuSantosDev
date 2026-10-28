@@ -25,11 +25,8 @@ Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs R
 ### ☕ Java & Back-End
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 
-### 🗄️ Persistência e Bancos de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+### 🗄️ Bancos de Dados
+<img src="https://skillicons.dev/icons?i=java,hibernate,postgres,mysql" />
 
 ### 🐍 Outras tecnologias
 <img src="https://skillicons.dev/icons?i=python,django,html,css" />
