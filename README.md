@@ -24,11 +24,10 @@
 ### 🌱 Sobre mim
 
 <p align="justify">
-  Sou desenvolvedor Back-End, graduado em Análise e Desenvolvimento de Sistemas pela UNIPÊ, com experiência prática adquirida na Fábrica de Softwares.
-  <br /><br />
-  Tenho foco no desenvolvimento Back-End com Java e Spring, trabalhando com APIs REST, persistência de dados e bancos de dados relacionais, como PostgreSQL e MySQL. Também possuo experiência prática no desenvolvimento de projetos com Python e Django.
-</p>
+  Sou desenvolvedor Back-End, formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (UNIPÊ), com experiência no desenvolvimento de software e participação em projetos na Fábrica de Softwares.
 
+Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em Java e Spring, Python e Django, além de bancos de dados relacionais, como MySQL e PostgreSQL. Possuo experiência prática no desenvolvimento de projetos reais para instituições como a Polícia Militar da Paraíba (PM-PB), o Exército Brasileiro e o Corpo de Bombeiros Militar da Paraíba (CBMPB).
+</p>
 <br />
 
 <hr />
