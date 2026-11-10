@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    width="60%"
+    width="40%"
     src="./assets/header-animation.gif"
     alt="Programação - MarcusDev"
 />
