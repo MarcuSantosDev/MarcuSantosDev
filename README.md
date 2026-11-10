@@ -13,16 +13,6 @@
 
 <br />
 
-<div align="center">
-  <img
-    width="100%"
-    src="./assets/marcusdev-background.png"
-    alt="MarcusDev — Java Back-End Developer"
-  />
-</div>
-
-<br />
-
 <hr />
 
 ### 🌱 Sobre mim
