@@ -9,10 +9,12 @@
 
 <div align="center">
   <img
-    width="60%"
     src="./assets/header-animation.gif"
     alt="Programação - MarcusDev"
-/>
+    width="100%"
+    height="180"
+    style="object-fit: cover;"
+  />
 </div>
 
 <br />
