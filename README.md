@@ -9,9 +9,9 @@
 
 <div align="center">
   <img
-  width="100%"
-  src="./assets/header-animation.gif"
-  alt="Programação - MarcusDev"
+    width="60%"
+    src="./assets/header-animation.gif"
+    alt="Programação - MarcusDev"
 />
 </div>
 
