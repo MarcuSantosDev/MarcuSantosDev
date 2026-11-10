@@ -42,7 +42,7 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
     </td>
     <td align="center" width="33%">
       <h4>Banco de Dados</h4>
-      <img height="38" src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL e MySQL" />
+      <img height="38" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL e MongoDB" />
     </td>
     <td align="center" width="34%">
       <h4>Persistência e Build</h4>
