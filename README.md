@@ -11,7 +11,7 @@
 
 <div align="center">
   <img
-    width="40%"
+    width="50%"
     src="./assets/header-animation.gif"
     alt="Programação - MarcusDev"
 />
