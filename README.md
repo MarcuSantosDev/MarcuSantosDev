@@ -39,6 +39,7 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
     <td align="center" width="33%">
       <h4>Back-End</h4>
       <img height="38" src="https://skillicons.dev/icons?i=java,spring,python,django" alt="Java, Spring, Python e Django" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
     <td align="center" width="33%">
       <h4>Banco de Dados</h4>
