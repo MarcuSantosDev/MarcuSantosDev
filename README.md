@@ -63,6 +63,7 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger / OpenAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
+</div>
 
 <br />
 
