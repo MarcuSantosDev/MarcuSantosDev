@@ -33,20 +33,30 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 
 ### 💻 Tecnologias
 
+### 💻 Tecnologias
+
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h4>Back-End</h4>
-      <img height="38" src="https://skillicons.dev/icons?i=java,spring,python,django,js" alt="Java, Spring, Python, Django e JavaScript" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+    <td align="center" width="50%">
+      <h4>Linguagens</h4>
+      <img height="42" src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python e JavaScript" />
     </td>
-    <td align="center" width="33%">
-      <h4>Banco de Dados</h4>
-      <img height="38" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL e MongoDB" />
+    <td align="center" width="50%">
+      <h4>Frameworks</h4>
+      <img height="42" src="https://skillicons.dev/icons?i=spring,django" alt="Spring e Django" />
     </td>
-    <td align="center" width="34%">
-      <h4>Persistência e Build</h4>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>Bancos de Dados</h4>
+      <img height="42" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL e MongoDB" />
+    </td>
+    <td align="center" width="50%">
+      <h4>Tecnologias</h4>
       <img height="38" src="https://skillicons.dev/icons?i=hibernate,maven" alt="Hibernate e Maven" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
   </tr>
 </table>
