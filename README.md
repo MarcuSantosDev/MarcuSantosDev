@@ -51,14 +51,6 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-  **ORM, Persistência e Build**
-
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
 </div>
 
 <br />
@@ -68,7 +60,7 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 ### 🛠️ Ferramentas
 
 <div align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
+  <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode,maven" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA, VS Code e Maven" />
 </div>
 
 <br />
