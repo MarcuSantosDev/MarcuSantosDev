@@ -33,11 +33,32 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 
 ### 💻 Tech Stack
 
-<div align="center">
-  <img height="42" src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,postgres,mysql,mongodb,hibernate,maven,git,github,gitlab,docker,postman,idea,vscode" alt="Java, Spring, Python, Django, JavaScript, PostgreSQL, MySQL, MongoDB, Hibernate, Maven, Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
-  <br/><br/>
+<div align="left">
+
+  **Linguagens**
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  **Frameworks**
+
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
+  **Bancos de Dados**
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  **ORM, Persistência e Build**
+
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+
 </div>
 
 <br />
