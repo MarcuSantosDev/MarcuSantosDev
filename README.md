@@ -55,7 +55,7 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 **Tecnologias**
 
  <div align="center">
-  <img src="https://img.shields.io/badge/JWT-4B6CB7?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+ <img src="https://img.shields.io/badge/JWT-4B6CB7?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
@@ -70,8 +70,22 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 
 ### 🛠️ Ferramentas
 
-<div align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,idea,vscode,maven" alt="Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA, VS Code e Maven" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="GitLab" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="Visual Studio Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="35" alt="Maven" />
 </div>
 
 <br />
