@@ -31,35 +31,14 @@ Ao longo da minha trajetória, trabalhei com diferentes tecnologias, com foco em
 
 <hr />
 
-### 💻 Tecnologias
+### 💻 Tech Stack
 
-### 💻 Tecnologias
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h4>Linguagens</h4>
-      <img height="42" src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python e JavaScript" />
-    </td>
-    <td align="center" width="50%">
-      <h4>Frameworks</h4>
-      <img height="42" src="https://skillicons.dev/icons?i=spring,django" alt="Spring e Django" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>Bancos de Dados</h4>
-      <img height="42" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL e MongoDB" />
-    </td>
-    <td align="center" width="50%">
-      <h4>Tecnologias</h4>
-      <img height="38" src="https://skillicons.dev/icons?i=hibernate,maven" alt="Hibernate e Maven" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="42" src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,postgres,mysql,mongodb,hibernate,maven,git,github,gitlab,docker,postman,idea,vscode" alt="Java, Spring, Python, Django, JavaScript, PostgreSQL, MySQL, MongoDB, Hibernate, Maven, Git, GitHub, GitLab, Docker, Postman, IntelliJ IDEA e VS Code" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</div>
 
 <br />
 
